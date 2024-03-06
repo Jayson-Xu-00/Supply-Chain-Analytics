@@ -2,7 +2,7 @@
 
 Group Assignments:
 
-Members: Jayson Xu, Paul Sun, Songbo Hu, Dan Dan, Tony Tao
+Members: Dan Dan, Jayson Xu, Paul Sun, Songbo Hu, Tony Tao
 - SCA_HW1_Location of a parcel pick up facility
 - SCA_HW2_CalNG
 - SCA_HW3_BioPharma
